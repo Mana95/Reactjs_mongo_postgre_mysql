@@ -1,0 +1,9 @@
+
+{
+    "connectionString": "postgres://postgres:1qa2ws3ed@localhost:5432/NovaAdmin",
+    "ConnectionStringType" :"mongoDb",
+    "host":"ec2-3-10-5-179.eu-west-2.compute.amazonaws.com",
+    "user": "root",
+    "password" : "RootAdmin1!",
+    "database" :"data_db"
+}
